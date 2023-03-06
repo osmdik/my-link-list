@@ -1,6 +1,6 @@
-import type { NextPage } from "next";
-import Head from "next/head";
-import Image from "next/image";
+import type { NextPage } from 'next';
+import Head from 'next/head';
+import Image from 'next/image';
 
 const Home: NextPage = () => {
   return (
@@ -27,7 +27,7 @@ const Home: NextPage = () => {
               width={150}
               height={150}
               priority={true}
-              loading={"eager"}
+              loading={'eager'}
             />
           </figure>
           <h1 className="mb-6 text-main text-lg font-normal text-center tracking-widest">
@@ -45,7 +45,7 @@ const Home: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="ri-twitter-fill align-middle"></i> Twitter
+              <i className="ri-twitter-fill align-bottom"></i> Twitter
             </a>
           </div>
           <div className="mb-4">
@@ -55,7 +55,7 @@ const Home: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="ri-github-fill align-middle"></i> GitHub
+              <i className="ri-github-fill align-bottom"></i> GitHub
             </a>
           </div>
           <div>
@@ -65,7 +65,7 @@ const Home: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="ri-global-line align-middle"></i> en-filer.com
+              <i className="ri-global-line align-bottom"></i> en-filer.com
             </a>
           </div>
         </div>
