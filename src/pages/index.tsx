@@ -1,6 +1,6 @@
-import type { NextPage } from 'next';
-import Head from 'next/head';
-import Image from 'next/image';
+import type { NextPage } from "next";
+import Head from "next/head";
+import Image from "next/image";
 
 const Home: NextPage = () => {
   return (
@@ -27,7 +27,7 @@ const Home: NextPage = () => {
               width={150}
               height={150}
               priority={true}
-              loading={'eager'}
+              loading={"eager"}
             />
           </figure>
           <h1 className="mb-6 text-main text-lg font-normal text-center tracking-widest">
