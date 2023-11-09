@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <title>Daiki Oshima</title>
         <meta
           name="description"
-          content="This site is a listing of doshimaf links."
+          content="This site is a collection of links to Daiki Oshima."
         />
         <meta
           name="viewport"
