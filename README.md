@@ -1,4 +1,6 @@
-This site is a listing of doshimaf links.
+# Link list of Daiki Oshima
+
+This site is a collection of links to Daiki Oshima.
 
 ## What was used to create it.
 
