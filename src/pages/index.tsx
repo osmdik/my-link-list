@@ -40,12 +40,6 @@ const Home: NextPage = () => {
             and directing website production.
           </p>
           <ButtonLink
-            buttonName={"X (Twitter)"}
-            buttonUrl={"https://twitter.com/doshimaf"}
-            iconClass={"ri-twitter-x-fill"}
-            external={true}
-          />
-          <ButtonLink
             buttonName={"GitHub"}
             buttonUrl={"https://github.com/osmdik"}
             iconClass={"ri-github-fill"}
